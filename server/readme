@@ -1,0 +1,8 @@
+Tank Server - Execute program on machine with transmitter. Must be run as root.
+David Baker 2004
+
+Compile with: gcc tankserv.c -o tankserv
+
+Execute with: ./tankserv 127.0.0.1
+where 127.0.0.1 is the IP address of the network connection.
+

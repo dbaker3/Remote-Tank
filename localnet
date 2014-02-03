@@ -1,0 +1,3 @@
+#!/bin/bash
+server/tankserv 127.0.0.1 &
+./tank net 127.0.0.1
